@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+astropy
+astroquery
+pandas
+numpy
+matplotlib
+pillow
+scipy
+photutils
+reproject

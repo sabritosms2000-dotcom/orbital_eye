@@ -1,0 +1,44 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+venv/
+.venv/
+
+# Next.js
+node_modules/
+.next/
+out/
+.turbo/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Scientific data
+*.fits
+*.fit
+*.fts
+
+# Generated data and caches
+data/catalog_cache.json
+data/validation_cache/
+backend/data/
+*.tmp
+*.log
+
+# Generated files
+dist/
+build/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backups
+backend_backup/
